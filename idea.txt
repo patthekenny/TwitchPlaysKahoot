@@ -1,0 +1,16 @@
+25% skip current kahoot?
+add queue of kahoots(verify before adding to queue)
+sub priority if I ever get sub button
+
+NOTES:
+
+https://play.kahoot.it/#/intro?quizId=
+
+^^ THIS URL WILL AUTOSTART QUIZ, ADD QUIZ ID AFTER!
+
+MALFORMED URL GIVES "Hmm... we can't seem to find this kahoot." in page.
+
+GOING FROM https://play.kahoot.it/#/lobby?quizId=2c249143-1e1e-4be7-a91b-1dbd1b68d614 AND CHANGING "lobby" to "play" WORKS,
+AND TAKES ALL PEOPLE IN LOBBY TO GAME! DO THIS AFTER 30s!(maybe time depends on amount of people watching)
+
+<strong ng-bind-html="gamePin" data-functional-selector="game-pin" class="ng-binding">6969696</strong>
